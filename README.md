@@ -21,4 +21,4 @@ This is a simple Excel-based Attendance Tracker designed to record and track stu
 - `README.md` – Project description and instructions
 
 ## Author
-Adhi
+Adithya s
